@@ -1,7 +1,15 @@
 # mrskyxx.github.io
+
+
 <html>
+
+
     <head>
+    
+    
         <title>Fire dection</title>
+	
+	
         <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-data@2.0.0/dist/tf-data.min.js"></script>
 		
@@ -9,6 +17,8 @@
             img, video {
                 object-fit: cover;
             }
+	    
+	    
         </style>
     </head>
     <body>
